@@ -1,0 +1,5 @@
+export const APP_START_LOADING = "APP_START_LOADING";
+export const APP_STOP_LOADING = "APP_STOP_LOADING";
+
+export const AUTH_SET_USER = "AUTH_SET_USER";
+export const AUTH_CLEAR_USER = "AUTH_CLEAR_USER";
