@@ -15,7 +15,7 @@
     "@expo/vector-icons": "^9.0.0",
     "eslint-plugin-react-native": "^3.6.0",
     "ex-react-native-i18n": "0.0.5",
-    "expo": "^32.0.0",
+    "expo": "^46.0.14",
     "native-base": "^2.10.0",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
